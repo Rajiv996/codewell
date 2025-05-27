@@ -1,0 +1,157 @@
+
+
+nav{
+    display: flex;
+    max-width: 100%;
+
+}
+.logo{
+    margin-left: 90px;
+    letter-spacing: 3px;
+}
+.menu{
+margin-left: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+.menu a{
+    margin-left: 50px;
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+}
+#login{
+   max-width: 70px;
+    height:35px;
+    margin-left: 250px;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: #000;
+    color: #fff;
+} 
+h2{
+    text-align: center;
+}
+.container{
+display: flex;
+margin-left: 200px;
+
+
+}
+.html img{
+width:200px;
+height: 200px;
+margin-left: 50px;
+margin-top: 10px;
+}
+
+
+.css img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.c img{
+    max-width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.html{
+    margin: 30px;
+    width:300px;
+    height: 400px;
+    background-color: aliceblue;
+}
+.css{
+    width: 300px;
+    height: 400px;
+    margin: 30px;
+    background-color: aliceblue;
+}
+.c{
+    margin: 30px;
+    width: 300px;
+     height: 400px;
+     background-color: aliceblue;
+}
+.html h1{
+    text-align: center;
+}
+.css h1{
+text-align: center;
+}
+.c h1{
+    text-align: center;
+}
+html p{
+    text-align: center;
+}
+.css p{
+text-align: center;
+}
+.c p{
+    text-align: center;
+}
+html button{
+margin-left: 100px;
+margin-top: 10px;
+width: 90px;
+height: 35px;
+border-radius: 8px;
+}
+    button a{
+        text-decoration: none;
+        color: #000;
+    }
+    button a:hover{
+        color: #fff;
+    }
+    .end{
+width: 100%;
+height: 400px;
+background-color: #454444;
+display: flex;
+justify-content: space-around;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+.contact h3{
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 30px;
+    
+
+}
+
+.contact a{
+    margin-top: 30px;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.information{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin-top: 30px;
+}
+.information a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 50px;
+    margin: 5px;
+
+}
